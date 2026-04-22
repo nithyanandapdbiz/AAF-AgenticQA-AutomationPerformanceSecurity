@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-04-22T10:15:12.303Z",
+  "dryRun": false,
+  "strategies": {},
+  "zephyrChanges": [],
+  "summary": {
+    "yamlChanges": 0,
+    "specChanges": 0,
+    "zephyrChanges": 0,
+    "manualReview": 0
+  }
+}
